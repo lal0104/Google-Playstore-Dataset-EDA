@@ -18,8 +18,8 @@ Inferences:
 5. Most popular social app is Instagram.
 
 Some Visualizations:<br>
-<img src = "GooglePlayStore_assets/Screenshot 2025-02-05 113832.png" width="500" height="400">
-<img src = "GooglePlayStore_assets/Screenshot 2025-02-05 114521.png" width="500" height="400"><br>
+<img src = "GooglePlayStore_assets/Screenshot 2025-02-05 113832.png" >
+<img src = "GooglePlayStore_assets/Screenshot 2025-02-05 114521.png"><br>
 # Which is the most popular app category?
 <img src = "GooglePlayStore_assets/Screenshot 2025-02-05 114010.png"><br>
 # What type of app is preffered?
